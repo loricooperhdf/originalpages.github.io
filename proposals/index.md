@@ -1,4 +1,4 @@
 # Proposals
 
-1. Aleksander's
+1. Aleksandar's
 2. Lifeboat, LLC's
