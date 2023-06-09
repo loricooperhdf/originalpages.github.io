@@ -17,23 +17,23 @@ The typical primary audience for proposals is the developers working on HDF5 and
 The broader HDF5 community may also choose to use the process to document expected feature additions and to manage complex design coordination problems that require collaboration across multiple projects.
 
 # Proposal types
-- * Specification Proposals * 
+- ** Specification Proposals ** 
 Specification Proposals deal with the changes related to HDF5 Specifications. The Specification Proposals for now introduces changes in the core specification of HDF5. The changes related to core specification follow a strict and thorough review process and should be adopted by everyone in the HDF5 community.
 
-- * Core protocol Proposals * 
-Describes a proposal which involves changes in the core specification of HDF5. Core protocol proposals (commonly known as Core proposals) are a part of SPEC proposals and apply to HDF5 Specifications and its various implementations under the * zarr-developers/zarr_implementations *  GitHub repo. The core protocol proposals should be adopted by every implementation of HDF5 and, in general, the overall HDF5 community. Core proposals must go through a thorough review process, including involvement, discussion, and voting from the author of the proposed proposal, HDF5 Technical Advisory Board, author(s) of various HDF5 implementations, and open-source projects/research groups using HDF5 and the general HDF5 community. The general advice is that everyone should be made aware of changes introduced by core proposals. Core protocol proposals require community consensus, and developers or users are typically not free to ignore them.
+- ** Core protocol Proposals ** 
+Describes a proposal which involves changes in the core specification of HDF5. Core protocol proposals (commonly known as Core proposals) are a part of SPEC proposals and apply to HDF5 Specifications and its various implementations under the ** zarr-developers/zarr_implementations **  GitHub repo. The core protocol proposals should be adopted by every implementation of HDF5 and, in general, the overall HDF5 community. Core proposals must go through a thorough review process, including involvement, discussion, and voting from the author of the proposed proposal, HDF5 Technical Advisory Board, author(s) of various HDF5 implementations, and open-source projects/research groups using HDF5 and the general HDF5 community. The general advice is that everyone should be made aware of changes introduced by core proposals. Core protocol proposals require community consensus, and developers or users are typically not free to ignore them.
 
 Note: Currently, Specification proposals only deal with the core specification of HDF5. The scope of SPEC proposals will be extended in the future.
 
-- * Informational proposal * 
+- ** Informational proposal ** 
 Describes a proposal design issue or provides general guidelines or information to the HDF5 community but does not propose a new feature. Informational proposals do not necessarily represent HDF5 community consensus or recommendation, so users and implementers are free to ignore informational proposalS or follow their advice.
 
-- * Process proposal * 
+- ** Process proposal ** 
 Describes a new process around HDF5 and its implementations or proposes a change to (or an event in) a process. They may propose an implementation, but not to the HDF5 specification or its implementations; they require community consensus; unlike informational proposals, they are more than recommendations, and developers or users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in HDF5’s specification development. Any meta-proposal is also considered a Process proposal.
 
 # Proposal Workflow 
 
-The proposal process begins with a new idea for HDF5. It is highly recommended that a single proposal contain a single key proposal or new idea. Small enhancements or patches often don’t need a proposal and can be injected into the HDF5 development workflow with a pull request to the proposals or * zarr-specs * repo. The more focused the proposal, the more successful it tends to be. If in doubt, split your proposal into several well-focused ones.
+The proposal process begins with a new idea for HDF5. It is highly recommended that a single proposal contain a single key proposal or new idea. Small enhancements or patches often don’t need a proposal and can be injected into the HDF5 development workflow with a pull request to the proposals or ** zarr-specs ** repo. The more focused the proposal, the more successful it tends to be. If in doubt, split your proposal into several well-focused ones.
 
 Each proposal must have a champion – someone who writes the proposal using the style and format described below, shepherds the discussions in the appropriate forums, and attempts to build community consensus around the idea. The proposal champion (a.k.a. Author) should first attempt to ascertain whether the idea is suitable for a proposal.
 
@@ -45,16 +45,16 @@ Vetting an idea publicly before going as far as writing a proposal is meant to s
 
 Once the champion has asked the HDF5 community whether an idea has any chance of acceptance, a draft proposal should be presented to the appropriate venue mentioned below. This allows the author to flesh out the draft proposal to make it properly formatted, of high quality, and address initial concerns about the proposal.
 
-Spec proposals consist of two parts, a PR to the zarr-specs repository containing changes to the spec and a PR to the proposals repository containing a narrative document explaining the need, importance and use-case for the change. It is also highly recommended that the specification proposal be accompanied by an implementation PR in at least one of the repositories represented in the*  zarr-developers/zarr_implementations. * 
+Spec proposals consist of two parts, a PR to the ** zarr-specs ** repository containing changes to the spec and a PR to the proposals repository containing a narrative document explaining the need, importance and use-case for the change. It is also highly recommended that the specification proposal be accompanied by an implementation PR in at least one of the repositories represented in the ** zarr-developers/zarr_implementations. **
 
 # Submitting a proposal
 For SPEC proposals, the proposal should be submitted as a draft proposal via two GitHub pull requests, one to the proposals repo and the other to the *  arr-specs * repository.
 
 The first PR should contain the narrative text of the proposal and should be submitted in the proposal repository with the name proposal-<n>.md under /proposals/draft/ where <n> is an appropriately assigned four-digit number. The draft proposal must use the proposal X - Template and Instructions file.
 
-The second PR should contain actual changes and should be submitted in the zarr-specs repository. The PR should mention the assigned four-digit proposal number from the zarr-developers/proposals repository.
+The second PR should contain actual changes and should be submitted in the ** zarr-specs ** repository. The PR should mention the assigned four-digit proposal number from the ** zarr-developers/proposals repository.**
 
-For proposals other than SPEC, the proposal should be submitted as a draft proposal via a GitHub pull request to the zarr-developers/proposals repository with the name proposal-<n>.md where <n> is an appropriately assigned four-digit number (e.g., proposal-0000.md). The draft proposal must use the proposal X - Template and Instructions file.
+For proposals other than SPEC, the proposal should be submitted as a draft proposal via a GitHub pull request to the ** zarr-developers/proposals ** repository with the name proposal-<n>.md where <n> is an appropriately assigned four-digit number (e.g., proposal-0000.md). The draft proposal must use the proposal X - Template and Instructions file.
 
 * A few points to consider while submitting your proposal: * 
 
@@ -66,9 +66,9 @@ For proposals other than SPEC, the proposal should be submitted as a draft propo
 → In conclusion: The submission of SPEC proposals needs two PRs, and other proposals need one PR.
 
 # Discussing a proposal
-As soon as the draft proposal is committed to the proposal repository, the author (s) should create a discussion thread for the proposal to provide a central place to discuss and review its contents. The proposal author(s) may create an issue in proposals repository for informational and process proposals and or similarly create an issue in zarr-specs repository for specifications proposals.
+As soon as the draft proposal is committed to the proposal repository, the author (s) should create a discussion thread for the proposal to provide a central place to discuss and review its contents. The proposal author(s) may create an issue in proposals repository for informational and process proposals and or similarly create an issue in **  zarr-specs ** repository for specifications proposals.
 
-If the author prefers to hold the discussion for SPEC proposals in the second PR submitted in the zarr-specs repository (as mentioned above), there’s no need to create an issue.
+If the author prefers to hold the discussion for SPEC proposals in the second PR submitted in the ** zarr-specs ** repository (as mentioned above), there’s no need to create an issue.
 
 The discussion regarding the proposal should follow HDF5’s CODE OF CONDUCT at all times.
 
@@ -85,7 +85,7 @@ All proposals should be created with the Draft status.
 
 Eventually, after the discussion, there may be a consensus that the proposal should be accepted - see the next section for details. At this point, the status becomes Accepted.
 
-Once a Specification proposal has been Accepted, the second PR which was submitted in the zarr-specs repository must be merged. After that, the status will be changed to Final.
+Once a Specification proposal has been Accepted, the second PR which was submitted in the ** zarr-specs ** repository must be merged. After that, the status will be changed to Final.
 
 Once an informational or process proposal has been Accepted, the author should implement changes in the procedure, guidelines, decision-making process, etc. ASAP.
 
@@ -123,7 +123,7 @@ Read more about HDF5 Implementations Council.
 
 For proposals, other than specifications, the author(s) must form a consensus around their proposal. They may refer to Discussing a proposal section to pick an avenue for discussion and engaging the community.
 
-When you think proposal is ready to accept, create a new issue in zarr-developers/proposals with a subject like:
+When you think proposal is ready to accept, create a new issue in ** zarr-developers/proposals ** with a subject like:
 
 Proposal to accept proposal <number>: <title>
 
@@ -142,14 +142,14 @@ If all the above options are exhausted by the author(s), then it’s the respons
 
 In general, the goal is to make sure that the community has consensus, not provide a rigid policy for people to try to game. When in doubt, err on the side of asking for more feedback and looking for opportunities to compromise.
 
-If the final comment period passes without any substantive objections, then the proposal can officially be marked Accepted. You should create a follow-up issue in zarr-developers/proposals repository notifying everyone (celebratory emoji optional but encouraged 🎉✨), and then update the proposal by setting its :Status: to Accepted, and it’s :Resolution: header to a link to your follow-up discussion (the last issue created) thread.
+If the final comment period passes without any substantive objections, then the proposal can officially be marked Accepted. You should create a follow-up issue in ** zarr-developers/proposals ** repository notifying everyone (celebratory emoji optional but encouraged 🎉✨), and then update the proposal by setting its :Status: to Accepted, and it’s :Resolution: header to a link to your follow-up discussion (the last issue created) thread.
 
 If there are substantive objections, then the proposal remains in Draft state, discussion continues as normal, and it can be proposed for acceptance again later once the objections are resolved.
 
 In unusual cases, the HDF5 Steering Council may be asked to decide whether a controversial proposal is Accepted.
 
 Maintenance
-In general, SPEC proposals are no longer modified after they have reached the Final state. The changes made to the HDF5’s core specification in the zarr-specs repository are considered the ultimate reference. However, finalised SPEC proposalS may be updated with minor changes as needed.
+In general, SPEC proposals are no longer modified after they have reached the Final state. The changes made to the HDF5’s core specification in the ** zarr-specs **repository are considered the ultimate reference. However, finalised SPEC proposalS may be updated with minor changes as needed.
 
 Process proposals may be updated over time to reflect changes to development practices and other details. The precise process followed in these cases will depend on the nature and purpose of the proposal being updated.
 
