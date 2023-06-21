@@ -1,22 +1,17 @@
-Does your organization rely on The HDF Group’s popular open-source software products, such as the HDF5 library or HDF5-HSDS? In that case, an annual Priority Support Agreement guarantees you will receive timely support and expert assistance. 
+Does your organization rely on The HDF Group's popular open-source software products, such as the HDF5 library or HDF5-HSDS? In that case, an annual Priority Support Agreement guarantees you will receive timely support and expert assistance. 
 
-Because everyone’s priorities and budget are different, we offer two tiers of priority support. Select what’s right for you!
+Because everyone's priorities and budget are different, we offer two tiers of priority support. Select what's right for you!
 
 ## Priority Support Overview
 
 | HDF Software Priority Support |
-| | Tier 1
-$15,000/year	
-| Tier 2
-$50,000/year |
+| | Tier 1 $15,000/year	
+| Tier 2 $50,000/year |
 | Response Time	| Three (3) business days	| < 4 hours |
 | Help Desk Access | Via email | Via email and ph one |
 | Dedicated Technical Support Account Manager	| | |
 | Direct access to technical staff | | |
-| Rapid issue resolution (commercially reasonable
-efforts to provide a fix or workaround)	| Within fifteen (15) business days
-after receipt of request|	Within five (5) business days
-after receipt of request|
+| Rapid issue resolution (commercially reasonable efforts to provide a fix or workaround)	| Within fifteen (15) business days after receipt of request|	Within five (5) business days after receipt of request|
 |Fixes for reported issues provided in a snapshot| | |		
 |Fixes for reported issues provided in a maintenance release | Future maintenance release | Next scheduled maintenance release* |
 
