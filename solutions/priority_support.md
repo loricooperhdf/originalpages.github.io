@@ -4,25 +4,62 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 
 ## Priority Support Overview
 
-| test | test | test |
-| --- | ---- | ---- | 
-| test | test | test |
-| test | test | test |
+<table style="table-layout: fixed;" border="0">
+<tbody>
+<tr">
+<td colspan="3">
+<h5>HDF Software Priority Support</h5>
+</td>
+</tr>
+<tr class="midbody">
+<td style="text-align: left; vertical-align: middle;"></td>
+<td style="vertical-align: middle;">Tier 1<br>$15,000/year</td>
+<td style="vertical-align: middle;">Tier 2<Br>$50,000/year</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Response Time</td>
+<td>Three (3) business days</td>
+<td>&lt; 4 hours</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Help Desk Access</td>
+<td>Via email</td>
+<td>Via email and phone</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Dedicated Technical Support Account Manager</td>
+<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td><i class="fa fa-check" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Direct access to technical staff</td>
+<td></td>
+<td><i class="fa fa-check" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Rapid issue resolution <i>(commercially reasonable
+efforts to provide a fix or workaround)</i></td>
+<td>Within fifteen (15) business days
+after receipt of request</td>
+<td>Within five (5) business days
+after receipt of request</td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a snapshot</td>
+<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td><i class="fa fa-check" aria-hidden="true"></i></td>
+</tr>
+<tr>
+<td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a maintenance release</td>
+<td>Future maintenance release</td>
+<td>Next scheduled maintenance release*</td>
+</tr>
+</tbody>
+</table>
 
-
-| HDF Software Priority Support | 
-| -------------- |
-| | Tier 1 $15,000/year	| Tier 2 $50,000/year |
-| Response Time	| Three (3) business days	| < 4 hours |
-| Help Desk Access | Via email | Via email and ph one |
-| Dedicated Technical Support Account Manager	| | |
-| Direct access to technical staff | | |
-| Rapid issue resolution (commercially reasonable efforts to provide a fix or workaround)	| Within fifteen (15) business days after receipt of request|	Within five (5) business days after receipt of request|
-|Fixes for reported issues provided in a snapshot| | |		
-|Fixes for reported issues provided in a maintenance release | Future maintenance release | Next scheduled maintenance release* |
 
 *If fixes are not available in time for the maintenance release, it will be available in the patch release.
-“Days” are Business Days Monday to Friday with the exception of federal holidays. “Hours” are Business Hours 8:00 am to 5:00 pm central time.
+"Days" are Business Days Monday to Friday with the exception of federal holidays. "Hours" are Business Hours 8:00 am to 5:00 pm central time.
 
 Additional terms and conditions apply.
 
