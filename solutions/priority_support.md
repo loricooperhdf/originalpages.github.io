@@ -11,16 +11,17 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <h5>HDF Software Priority Support</h5>
 </td>
 </tr>
-<tr class="midbody">
+<tr>
 <td style="text-align: left; vertical-align: middle;"></td>
-<td style="vertical-align: middle;">Tier 1<br>$15,000/year</td>
+<td style="vertical-align: middle;">Tier 1<br>
+  $15,000/year</td>
 <td style="vertical-align: middle;">Tier 2<Br>$50,000/year</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Response Time</td>
 <td>Three (3) business days</td>
 <td>&lt; 4 hours</td>
-</tr>
+</ter>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Help Desk Access</td>
 <td>Via email</td>
