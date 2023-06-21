@@ -4,7 +4,14 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 
 ## Priority Support Overview
 
+| test | test | test |
+| --- | ---- | ---- | 
+| test | test | test |
+| test | test | test |
+
+
 | HDF Software Priority Support | 
+| -------------- |
 | | Tier 1 $15,000/year	| Tier 2 $50,000/year |
 | Response Time	| Three (3) business days	| < 4 hours |
 | Help Desk Access | Via email | Via email and ph one |
