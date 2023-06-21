@@ -8,7 +8,7 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <tbody>
 <tr">
 <td colspan="3">
-<h5>HDF Software Priority Support</h5>
+<center></center><h5><HDF Software Priority Support</h5></center>
 </td>
 </tr>
 <tr>
@@ -29,7 +29,7 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Dedicated Technical Support Account Manager</td>
-<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td><i class="fa fa-check"></i></td>
 <td><i class="fa fa-check" aria-hidden="true"></i></td>
 </tr>
 <tr>
