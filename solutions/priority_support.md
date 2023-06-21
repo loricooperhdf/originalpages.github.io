@@ -8,7 +8,7 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <tbody>
 <tr">
 <td colspan="3">
-<h5 style="text-align: center;">HDF Software Priority Support</h5></center>
+<h5 style="text-align: center;">HDF Software Priority Support</h5>
 </td>
 </tr>
 <tr>
@@ -30,25 +30,23 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <tr>
 <td style="text-align: left; vertical-align: middle;">Dedicated Technical Support Account Manager</td>
 <td>&#x2713;</td>
-<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td>&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Direct access to technical staff</td>
 <td></td>
-<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td>&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Rapid issue resolution <i>(commercially reasonable
 efforts to provide a fix or workaround)</i></td>
-<td>Within fifteen (15) business days
-after receipt of request</td>
-<td>Within five (5) business days
-after receipt of request</td>
+<td>Within fifteen (15) business days after receipt of request</td>
+<td>Within five (5) business days after receipt of request</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a snapshot</td>
-<td><i class="fa fa-check" aria-hidden="true"></i></td>
-<td><i class="fa fa-check" aria-hidden="true"></i></td>
+<td>	&#x2713;</td>
+<td>	&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a maintenance release</td>
