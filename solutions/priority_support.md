@@ -1,3 +1,5 @@
+# HDF Software Priority Support
+
 Does your organization rely on The HDF Group's popular open-source software products, such as the HDF5 library or HDF5-HSDS? In that case, an annual Priority Support Agreement guarantees you will receive timely support and expert assistance. 
 
 Because everyone's priorities and budget are different, we offer two tiers of priority support. Select what's right for you!
@@ -7,15 +9,13 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <table style="table-layout: fixed;" border="0">
 <tbody>
 <tr">
-<td colspan="3">
-<h5 style="text-align: center;">HDF Software Priority Support</h5>
-</td>
+<td colspan="3"><h5 style="text-align: center;">HDF Software Priority Support</h5></td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;"></td>
-<td style="vertical-align: middle;">Tier 1<br>
+<td style="vertical-align: middle; text-align:center;"><strong>Tier 1</strong><br>
   $15,000/year</td>
-<td style="vertical-align: middle;">Tier 2<Br>$50,000/year</td>
+<td style="vertical-align: middle; text-align:center;"><strong>Tier 2</strong><Br>$50,000/year</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Response Time</td>
@@ -29,13 +29,13 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Dedicated Technical Support Account Manager</td>
-<td>&#x2713;</td>
-<td>&#x2713;</td>
+<td style="text-align: center;">&#x2713;</td>
+<td style="text-align: center;">&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Direct access to technical staff</td>
 <td></td>
-<td>&#x2713;</td>
+<td style="text-align: center;">&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Rapid issue resolution <i>(commercially reasonable
@@ -45,8 +45,8 @@ efforts to provide a fix or workaround)</i></td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a snapshot</td>
-<td>	&#x2713;</td>
-<td>	&#x2713;</td>
+<td style="text-align: center;">	&#x2713;</td>
+<td style="text-align: center;">	&#x2713;</td>
 </tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Fixes for reported issues provided in a maintenance release</td>
