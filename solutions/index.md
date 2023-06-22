@@ -8,7 +8,7 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 
 <table style="table-layout: fixed;" border="0">
 <tbody>
-<tr">
+<tr>
 <td colspan="3"><h5 style="text-align: center;">HDF Software Priority Support</h5></td>
 </tr>
 <tr>
