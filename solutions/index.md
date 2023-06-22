@@ -21,7 +21,7 @@ Because everyone's priorities and budget are different, we offer two tiers of pr
 <td style="text-align: left; vertical-align: middle;">Response Time</td>
 <td>Three (3) business days</td>
 <td>&lt; 4 hours</td>
-</ter>
+</tr>
 <tr>
 <td style="text-align: left; vertical-align: middle;">Help Desk Access</td>
 <td>Via email</td>
