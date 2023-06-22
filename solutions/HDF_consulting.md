@@ -1,8 +1,8 @@
-# HDF® Consulting
+# HDF&copy; Consulting
 
-### HDF®, HPC, and big data compute industry and technology experts
+### HDF&copy;, HPC, and big data compute industry and technology experts
 
-From development rapid-start to system optimization and software troubleshooting, our team can save you time and resources on projects large and small. The HDF Group’s industry experts, scientists, and engineers have extensive experience in applying HPC and HDF® technologies across a wide variety of industries and scientific fields.
+From development rapid-start to system optimization and software troubleshooting, our team can save you time and resources on projects large and small. The HDF Group's industry experts, scientists, and engineers have extensive experience in applying HPC and HDF&copy; technologies across a wide variety of industries and scientific fields.
 
 ## Advantages
 * Expert guidance and assistance through early HDF technical decisions to ensure project success and avoid missteps
