@@ -1,6 +1,6 @@
 # Proposals
 
-Please use the [template proposal](/template.md). 
+Please use the [template proposal](/template.html). 
 
 ## Current Proposals
 
